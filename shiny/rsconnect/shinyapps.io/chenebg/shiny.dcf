@@ -1,0 +1,11 @@
+name: shiny
+title:
+username:
+account: chenebg
+server: shinyapps.io
+hostUrl: https://api.shinyapps.io/v1
+appId: 3247591
+bundleId: 4821165
+url: https://chenebg.shinyapps.io/shiny/
+when: 1626327523.7141
+lastSyncTime: 1626327523.7141
